@@ -3,11 +3,15 @@
 <h6>I like to code , experiment , devop and learn new technologies about the web.</h6>
 <h3>GitHub Stats</h3>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=the-coderYash)"
+![Github stats](https://github-readme-stats.vercel.app/api?username=the-coderYash)
 
 <h2>Languages</h2>
 
  [![Languages](https://skillicons.dev/icons?i=js,html,css,python,java)](https://skillicons.dev)
+
+ <h2>Frameworks</h2>
+ 
+ [![Languages](https://skillicons.dev/icons?i=angular,reactjs,talawindcss,expressjs)](https://skillicons.dev)
 <!--
 **the-coderYash/the-coderYash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
