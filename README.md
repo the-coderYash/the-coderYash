@@ -1,6 +1,8 @@
 ### Hi there 👋
 
  I'm Yash Raj
+
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=the-coderYash)
 <!--
 **the-coderYash/the-coderYash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
