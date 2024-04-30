@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<bold> I'm Yash Raj <bold>
+ I'm Yash Raj
 <!--
 **the-coderYash/the-coderYash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
