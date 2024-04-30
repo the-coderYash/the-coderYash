@@ -1,5 +1,4 @@
-<h1>Hi 🙌</h1>
-<hr>
+<h2>Hi 🙌</h2>
 <br>
 <h1> I'm Yash Raj</h1>
 <hr>
