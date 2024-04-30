@@ -11,7 +11,7 @@
 
  <h2>Frameworks</h2>
  
- [![Languages](https://skillicons.dev/icons?i=angular,reactjs,talawindcss,expressjs)](https://skillicons.dev)
+ [![Languages](https://skillicons.dev/icons?i=angular,react,talawind,expressjs,native)](https://skillicons.dev)
 <!--
 **the-coderYash/the-coderYash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
