@@ -1,6 +1,6 @@
 <h2>Hi 🙌</h2>
 <h3> I'm Yash Raj</h3>
-<h6>I like to code , experiment , devop and learn new technologies about the web.</h6>
+<h6>I like to code , experiment , develop and learn new technologies about the web.</h6>
 <h3>GitHub Stats</h3>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=the-coderYash)
